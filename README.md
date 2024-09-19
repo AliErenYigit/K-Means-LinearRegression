@@ -19,6 +19,7 @@ K-means, özellikle büyük veri kümelerinde hızlı sonuçlar üreten ve uygul
 Bu projede K-Means algoritmasını kullandım. Yukarıdaki çıktıda verilerin PCA ile 2 boyutlu hale getirilip görselleştirme işlem gerçekleştirilmiştir. Renkli görünümlerle birlikte her bir kümenin nasıl ayrıldığını görebiliyoruz.
 
 **LinearRegression:**
+
 **Linear Regression Özellikleri:**
 **Basitlik:** Doğrusal regresyon, genellikle veri bilimi ve makine öğrenmesine girişte kullanılan en basit modeldir.
 **Yorumlanabilirlik:** Her bağımsız değişkenin, bağımlı değişken üzerindeki etkisini (katsayılarla) doğrudan görmemizi sağlar.

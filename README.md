@@ -2,6 +2,7 @@
 **>>>>** **K-Means:** **<<<<**
 
 **K-means Algoritmasının Temel Özellikleri:**
+
 **Hızlı ve Etkili:** K-means genellikle hızlı çalışan bir algoritmadır ve büyük veri kümelerinde bile kullanılabilir.
 
 **Kullanımı Basit:** Küme sayısının (k) kullanıcı tarafından önceden belirlenmesi gerekse de uygulaması kolay bir algoritmadır.
@@ -10,6 +11,7 @@
 
 
 **K-means'in Zayıf Yönleri:**
+
 **Küme sayısının önceden belirlenmesi gerekmesi:** K değeri uygun seçilmezse, sonuçlar hatalı olabilir.
 
 **Başlangıç merkezlerinin rastgele seçilmesi:** K-means başlangıç merkezlerine duyarlıdır. Farklı başlangıç noktaları farklı sonuçlar üretebilir.
@@ -26,6 +28,7 @@ Bu projede K-Means algoritmasını kullandım. Yukarıdaki çıktıda verilerin 
 **>>>>** **LinearRegression:** **<<<<**
 
 **Linear Regression Özellikleri:**
+
 **Basitlik:** Doğrusal regresyon, genellikle veri bilimi ve makine öğrenmesine girişte kullanılan en basit modeldir.
 
 **Yorumlanabilirlik:** Her bağımsız değişkenin, bağımlı değişken üzerindeki etkisini (katsayılarla) doğrudan görmemizi sağlar.
@@ -33,6 +36,7 @@ Bu projede K-Means algoritmasını kullandım. Yukarıdaki çıktıda verilerin 
 **Genel Kullanım:** İstatistiksel analizlerde ve veri bilimi uygulamalarında oldukça yaygın bir yöntemdir.
 
 **Linear Regression'in Zayıf Yönleri:**
+
 **Doğrusal Varsayım:** Yalnızca bağımsız ve bağımlı değişkenler arasında doğrusal bir ilişki varsa iyi çalışır. Eğer ilişki doğrusal değilse, sonuçlar yanıltıcı olabilir.
 
 **Hata Terimlerinin Normal Dağılımı:** Hata terimlerinin (residuals) normal dağılıma sahip olması ve varyanslarının sabit olması beklenir.

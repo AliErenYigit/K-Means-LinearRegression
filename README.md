@@ -1,4 +1,3 @@
-# K-Means-LinearRegression
 
 **K-Means:**
 
@@ -17,7 +16,7 @@ K-means, özellikle büyük veri kümelerinde hızlı sonuçlar üreten ve uygul
 ![image](https://github.com/user-attachments/assets/5e129f6f-1dfc-45c9-b7a6-0ed188136838)
 
 Bu projede K-Means algoritmasını kullandım. Yukarıdaki çıktıda verilerin PCA ile 2 boyutlu hale getirilip görselleştirme işlem gerçekleştirilmiştir. Renkli görünümlerle birlikte her bir kümenin nasıl ayrıldığını görebiliyoruz.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 **LinearRegression:**
 
 **Linear Regression Özellikleri:**

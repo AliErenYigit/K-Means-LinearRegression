@@ -48,3 +48,4 @@ Bu projede ise LinearRegression algoritması kullandım. Yukarıdaki çıktıda 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+https://www.kaggle.com/code/alierenyiit/k-means-lineerregrassion
